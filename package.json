@@ -10,7 +10,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: No test specified\" && exit 1"
+    "test": "jest"
   },
   "author": "jrw@mit.edu",
   "license": "MIT"
